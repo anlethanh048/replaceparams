@@ -1,0 +1,16 @@
+h6::before {
+    display: inline-block;
+    content: "";  
+    width: 4px;
+    height: 16px;
+    margin-right: 5px;
+    background-color: rgb(66, 66, 108);
+}
+.fr{
+    padding: 5px;
+    float: right !important;
+}
+.fl{ 
+    margin-top: 15px;
+    float: left !important;
+}
