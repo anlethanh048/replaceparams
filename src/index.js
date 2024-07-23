@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <BrowserRouter basename="/replaceparams">
-     <h1>Lê Thanh Ân</h1>
+     <App />
     </BrowserRouter>
   </React.StrictMode>
 );
