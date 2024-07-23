@@ -8,7 +8,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/replaceparams/public">
+    <BrowserRouter basename="/replaceparams">
      <App />np
     </BrowserRouter>
   </React.StrictMode>
